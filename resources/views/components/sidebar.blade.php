@@ -1,7 +1,7 @@
 <div class="main-sidebar sidebar-style-2">
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-            <a href="index.html">Stisla</a>
+            <a href="index.html">kedai ok </a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
             <a href="index.html">St</a>
@@ -22,7 +22,7 @@
                     </li>
                 </ul>
             </li>
-            <li class="menu-header">Starter</li>
+            {{-- <li class="menu-header">Starter</li>
             <li class="nav-item dropdown {{ $type_menu === 'layout' ? 'active' : '' }}">
                 <a href="#"
                     class="nav-link has-dropdown"
@@ -225,7 +225,7 @@
                     <li><a href="gmaps-simple.html">Simple</a></li>
                 </ul>
             </li> --}}
-            <li class="nav-item dropdown {{ $type_menu === 'modules' ? 'active' : '' }}">
+            {{-- <li class="nav-item dropdown {{ $type_menu === 'modules' ? 'active' : '' }}">
                 <a href="#"
                     class="nav-link has-dropdown"><i class="fas fa-plug"></i> <span>Modules</span></a>
                 <ul class="dropdown-menu">
@@ -390,5 +390,5 @@
                 <i class="fas fa-rocket"></i> Documentation
             </a>
         </div>
-    </aside>
+    </aside> --}}
 </div>
